@@ -1,7 +1,7 @@
-Environment,Branch
-BeSmarterWithData,Dev
-BeSmarterWithData,Test
-BeSmarterWithData,Prod
-Chris1642,Dev
-Chris1642,Test
-Chris1642,Prod
+Environment,Repo,Branch
+BSWA-Dev,BeSmarterWithData,Dev
+BSWA-Tes,BeSmarterWithData,Test
+BSWA-Prod,BeSmarterWithData,Prod
+C-Dev,Chris1642,Dev
+C-Test,Chris1642,Test
+C-Prod,Chris1642,Prod
